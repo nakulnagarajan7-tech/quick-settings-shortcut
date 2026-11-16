@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Settings Shortcut",
+  "version": "1.0",
+  "description": "One-click shortcuts to essential browser settings.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["tabs"]
+}
